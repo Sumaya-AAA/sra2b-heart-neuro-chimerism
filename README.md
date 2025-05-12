@@ -38,7 +38,7 @@ This project investigates two key biological questions:
 ## 🧪 Datasets
 
 - 🐟 [Zebrafish Heart scRNA-seq (GSE261619)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE261619)  
-- 🐭 [Mouse Heart snRNA-seq (10x Genomics)](https://www.10xgenomics.com/resources/datasets/5-k-mouse-heart-nuclei-1-standard-1-1-0)  
+- 🐭 [5k Adult Mouse Heart Nuclei – 10x Genomics](https://www.10xgenomics.com/datasets/5k-adult-mouse-heart-nuclei-isolated-with-chromium-nuclei-isolation-kit-3-1-standard)
 - 🧬 [Human Heart Transplant snRNA-seq (GSE203548)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203548)
 
 ---
