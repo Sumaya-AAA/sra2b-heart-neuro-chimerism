@@ -18,10 +18,9 @@ This project investigates two key biological questions:
 | File | Description |
 |------|-------------|
 | `CB_Final_Sumaya_A.pdf` | Final written report |
-| `zebrafish_analysis.ipynb` | [📘 View Zebrafish Notebook in Google Colab](https://colab.research.google.com/drive/1bYgDab3UFBuOm7DzoKGG5qBpxg_frp-s?usp=sharing)
- |
-| `mouse_analysis.ipynb` | Mouse snRNA-seq analysis of neuronal and neurotransmitter markers |
-| `human_chimerism_analysis.ipynb` | Chimerism analysis of human heart transplant data using Souporcell |
+| `zebrafish Analysis` | [📘 View Zebrafish Notebook in Google Colab](https://colab.research.google.com/drive/1bYgDab3UFBuOm7DzoKGG5qBpxg_frp-s?usp=sharing)
+| `Mouse Analysis` | Mouse snRNA-seq analysis of neuronal and neurotransmitter markers |
+| `Chimerism Analysis.ipynb` | Chimerism analysis of human heart transplant data using Souporcell |
 
 ---
 
