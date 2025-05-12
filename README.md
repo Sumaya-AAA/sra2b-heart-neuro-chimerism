@@ -44,9 +44,9 @@ This project investigates two key biological questions:
 ---
 ## 🔍 Key Findings
 
-- Neuron-like gene expression was detected in zebrafish and mouse cardiac datasets, including genes linked to synaptic plasticity and neural function.
+- Neuron-like gene expression was detected in zebrafish and mouse cardiac datasets, including genes linked to synaptic plasticity.
 - Zebrafish showed broader expression of plasticity-associated markers, while the mouse dataset also revealed consistent neuron-like transcriptional patterns.
-- Chimerism analysis of the human heart transplant sample confirmed the coexistence of donor- and recipient-derived cells, validated through genotype-free clustering and gene expression profiling.
+- Chimerism analysis of the human heart transplant sample confirmed the coexistence of donor- and recipient-derived cells, validated through genotype-free clustering.
 
 
 ---
@@ -54,7 +54,9 @@ This project investigates two key biological questions:
 ## Citation
 
 **Sumaya Abdulrahman (Sra²b)**  
-Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)  
+sumaya.alameri@mbzuai.ac.ae 
+
 
 ---
 
