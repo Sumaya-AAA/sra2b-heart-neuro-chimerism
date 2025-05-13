@@ -19,7 +19,7 @@ This project investigates two key biological questions:
 |------|-------------|
 | `BeyondThePump_Report.pdf` | Final written report |
 | `zebrafish Analysis` | [📘 View Zebrafish Notebook in Google Colab](https://colab.research.google.com/drive/1bYgDab3UFBuOm7DzoKGG5qBpxg_frp-s?usp=sharing)
-| `Mouse Analysis` | [📘 View Mouse Notebook in Google Colab](https://colab.research.google.com/drive/1EOi2KMNGHaix2zMHW0h09aNB4tr1S_4Q?usp=sharing)
+| `Mouse Analysis` | [📘 View Mouse Heart snRNA-seq Notebook in Google Colab](https://colab.research.google.com/drive/1EOi2KMNGHaix2zMHW0h09aNB4tr1S_4Q?usp=sharing)
 | `Chimerism Analysis` | [📘 View Chimerism Notebook in Google Colab](https://colab.research.google.com/drive/1WF-IcuQmJxrfOtLZD6wnq-jfUmLarvfp?usp=sharing)
  
 
