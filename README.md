@@ -1,4 +1,4 @@
-# Sra2b – Single-Cell and Chimerism Analysis in Cardiac Tissue
+# Sra2b – RNA seq and Chimerism Analysis in Cardiac Tissue
 
 **Team**: Sra²b  
 **Project Title**: *Beyond the Pump: Identifying Neuron-Like Cells and Chimerism in Cardiac Tissue*
