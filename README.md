@@ -3,6 +3,13 @@
 **Team**: Sra²b  
 **Project Title**: *Beyond the Pump: Identifying Neuron-Like Cells and Chimerism in Cardiac Tissue*
 
+### 🌀 Why “Sra²b”?
+
+The team name **Sra²b** (سراب in Arabic) means *mirage* — a reflection of uncertainty and illusion.  
+It reflects the deeper question explored in this project:  
+**Is it possible that within transplanted cells, emotional identity flows quietly forming a hidden bridge between donor and recipient?**  
+Just like a mirage, we don’t know if it’s real, but we explore it anyway.
+
 ---
 
 ## 🧠 Overview
