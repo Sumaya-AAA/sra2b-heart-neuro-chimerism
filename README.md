@@ -27,9 +27,9 @@ This project investigates two key biological questions:
 
 ## 🔬 Tools & Methods
 
-- **scVI** for normalization, batch correction & latent space embedding
 - **Cell Ranger** for 10x Genomics processing
 - **Souporcell** for genotype-free clustering and chimerism analysis
+- - **scVI** for normalization, batch correction & latent space embedding
 - Visualization with **Scanpy**, **matplotlib**, and **seaborn**
 - Executed via **Google Colab** and **VSCode** on Linux
 
